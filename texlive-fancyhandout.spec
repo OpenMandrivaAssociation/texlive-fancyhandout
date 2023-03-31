@@ -1,6 +1,6 @@
 Name:		texlive-fancyhandout
 Version:	46411
-Release:	1
+Release:	2
 Summary:	A LaTeX class for producing nice-looking handouts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fancyhandout
