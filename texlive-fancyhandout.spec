@@ -3,7 +3,7 @@ Version:	46411
 Release:	2
 Summary:	A LaTeX class for producing nice-looking handouts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fancyhandout
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fancyhandout
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fancyhandout.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fancyhandout.doc.r%{version}.tar.xz
